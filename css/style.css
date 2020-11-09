@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+  }
+h2{
+  margin: 8px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+  color: white;
+}
